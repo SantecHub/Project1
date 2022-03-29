@@ -64,6 +64,16 @@ nav image{
     color: aquamarine;
 
 }
+
+.welcome{
+    color: black;
+    }
+.to{
+    color: aquamarine;
+}
+.my{color: blue;
+
+}
 .btn{
     display: inline-block;
     text-decoration: none;
@@ -145,7 +155,7 @@ p{
       margin: 10px;
       color: antiquewhite;
       margin-block-end: auto;
-      
+
   }
 
   .course-row{
